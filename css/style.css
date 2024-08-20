@@ -3473,7 +3473,8 @@ input[type="button"].btn-block {
   margin-right: 1rem;
   font-size: 1.25rem;
   line-height: inherit;
-  white-space: nowrap; }
+  white-space: nowrap;
+  font-family: 'Brush Script MT', cursive; }
   .navbar-brand:hover, .navbar-brand:focus {
     text-decoration: none; }
 
@@ -9703,3 +9704,10 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
+
+
+
+
+
+   
